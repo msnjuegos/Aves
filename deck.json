@@ -13,7 +13,8 @@
                 "delays": [
                     10,
                     360,
-                    1440
+                    1440,
+                    10080
                 ],
                 "leechAction": 1,
                 "leechFails": 4,
@@ -21,7 +22,7 @@
                 "mult": 0.4
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Default::Subdecks",
             "new": {
                 "bury": true,
                 "delays": [
@@ -29,16 +30,17 @@
                     15,
                     1440,
                     4320,
-                    8640
+                    8640,
+                    17280
                 ],
                 "initialFactor": 2500,
                 "ints": [
-                    15,
+                    24,
                     4,
                     7
                 ],
                 "order": 1,
-                "perDay": 12,
+                "perDay": 5,
                 "separate": true
             },
             "replayq": true,
@@ -77,6 +79,8 @@
         "036er1.jpg",
         "036gde.jpg",
         "036mf2.jpg",
+        "038c4741359691.5d0bf4f85e980.jpg",
+        "03995341359691.5d0bf4f85c7f3.jpg",
         "042.jpg",
         "042a.jpg",
         "042jc1.jpg",
@@ -146,6 +150,7 @@
         "149a.jpg",
         "149b.jpg",
         "149jt4.jpg",
+        "16892d41359691.5d0bf4f85d95e.jpg",
         "168gdea.jpg",
         "168jt1.jpg",
         "168jt2.jpg",
@@ -162,6 +167,7 @@
         "234gde.jpg",
         "234jt1.jpg",
         "234jt3.jpg",
+        "239.jpg",
         "253dr1.jpg",
         "253jt3.jpg",
         "253jt4.jpg",
@@ -181,8 +187,13 @@
         "358gde.jpg",
         "358ol1.jpg",
         "358tr1.jpg",
+        "38f6c741359691.5d0bf4f85ceec.jpg",
+        "3ec10641359691.5d0bf4f85e25c.jpg",
+        "3f52c141359691.5d0bf4f85c447.jpg",
         "468.jpg",
         "468gde.jpg",
+        "48e1d641359691.5d0bf4f85dc4e.jpg",
+        "937fdc41359691.5d0bf4f85df11.jpg",
         "Cachana-Vocalizacion.mp3",
         "Cachudito-Vocalizacion.mp3",
         "Cachudito.mp3",
@@ -195,7 +206,6 @@
         "Chuncho Vocalizacion.mp3",
         "Chuncho Vocalizacion2.mp3",
         "Cotorra Argentina-2.mp3",
-        "Cotorra Argentina.mp3",
         "Diuca Vocalizacion.mp3",
         "Diuca-Vocalizacion.mp3",
         "Diucon-Vocalizacion.mp3",
@@ -207,8 +217,8 @@
         "Golondrina Chilena-Vocalizacion.mp3",
         "Golondrina Chilena.mp3",
         "Golondrina Vocalizacion.mp3",
+        "Gorrion - vocalizacion.mp3",
         "Gorrion Vocalizacion.mp3",
-        "Gorrion-Vocalizacion.mp3",
         "Gorrion.mp3",
         "Huairavo-Vocalizacion.mp3",
         "Jilguero-Vocalizacion.mp3",
@@ -219,12 +229,10 @@
         "Mirlo.mp3",
         "Perrito-Vocalizacion.mp3",
         "Peuco Vocalizacion.mp3",
-        "Queltehue-vocalizacion.mp3",
-        "Rayadito---Pio-Marshall.jpg",
-        "Rayadito2-portada-Pio-Marshall-1180x652.jpg",
-        "Rayadito3---Pio-Marshall.jpg",
+        "Queltehue-Vocalizacion.mp3",
+        "Queltehue.mp3",
+        "Tenca Vocalizacion.mp3",
         "Tenca Vocalizacion2.mp3",
-        "Tenca-vocalizacion.mp3",
         "Tijeral Vocalizacion.mp3",
         "Tijeral.mp3",
         "Tiuque Vocalizacion.mp3",
@@ -237,13 +245,15 @@
         "Tricahue2.mp3",
         "Tucuquere Vocalizacion.mp3",
         "Tucuquere-Vocalizacion.mp3",
-        "Zonotrichia_Capensis.JPG",
+        "Untitled (2).jpg",
+        "Zonotrichia_Capensis.jpg",
         "Zorzal Vocalizacion.mp3",
         "Zorzal-Vocalizacion.mp3",
         "Zorzal2-2.mp3",
         "aguila_mora.mp3",
         "aguila_mora2.mp3",
         "aguila_mora3.mp3",
+        "c3fe2a41359691.5d0bf4f85cbd3.jpg",
         "carancho2.mp3",
         "carancho3.mp3",
         "carancho4.mp3",
@@ -252,51 +262,105 @@
         "carpintero_negro_2.mp3",
         "chucao2.mp3",
         "chucao3.mp3",
+        "chuncho.jpg",
         "concon1.mp3",
         "concon2.mp3",
         "concon3.mp3",
+        "condor1.mp3",
         "cotorra argentina2.mp3",
+        "diuca_1.mp3",
+        "diuca_2.mp3",
+        "diuca_5.mp3",
+        "eb814f41359691.5d0bf4f85d29c.jpg",
         "magallanes.mp3",
         "magallanes2.mp3",
+        "martin_pescador.jpg",
         "martin_pescador.mp3",
         "martin_pescador2.mp3",
         "martin_pescador3.mp3",
+        "paste-0091158dbca9f277fe98933f3f4b39706537de14.jpg",
         "paste-00e2ff9f57d3e50a54be56ddac4a16df18beb41e.jpg",
         "paste-027682815d022aabf0ac19e4400356f3c239327a.jpg",
+        "paste-02b2453a53b1fd7eaf32b8037182594adbe9b404.jpg",
+        "paste-034ff892ad5cdcc37fdc1257448acc484994340e.jpg",
         "paste-038403b111b63b73ece30546e8a14410cf7bea3a.jpg",
+        "paste-0412ad0fac5593d28cd2599892e7b98ceeff3184.jpg",
+        "paste-05056e005337bfcab6839b23554fa9e48323c42e.jpg",
         "paste-067b2a2c43a94063b7b9df557e03603c1835f7ed.jpg",
         "paste-0a89b7fe152d0d7a38b0a0b1d566d1ecf6d09981.jpg",
         "paste-0d1de729c65a67ba488c220dce754d93a8dfad25.jpg",
+        "paste-0db8af33a7716172dff5b7602e5130d07963f7d1.jpg",
+        "paste-130c1529aba55d27b30fc1c782a2bf62abc21503.jpg",
         "paste-13d63eea46f280e2c92660f4d487d95d6c0d47f7.jpg",
+        "paste-14cf91e0d6f2519f54da9cfd1b08b15d1bee2c81.jpg",
         "paste-163eb1f8d54ee3b8ba7e54a0d999fb01ef2f3275.jpg",
+        "paste-16a93926daac884990d3e226f665819bd0fa9fc7.jpg",
+        "paste-16d49b9410f380360dd6e8b3ee0153d74d709f20.jpg",
+        "paste-1a44d07efd82132df3d9c4ebac7e0e2502f6e2c8.jpg",
         "paste-1b2e08644174845a679e1df8beba77dc93a2cee0.jpg",
+        "paste-1b4a5bda79533b287219aec27c73478b9b985ce3.jpg",
+        "paste-1b9847a37a026f4c477206c609ddc1016b0196a7.jpg",
+        "paste-1de24bf4eeb04fec0bb6a7f67d8574db2637c3f7.jpg",
+        "paste-1ec758dcb43feef0b8742e6a8849a1df40ef234a.jpg",
         "paste-20bc919d11ec8db7dad6984977660edd72b780d6.jpg",
         "paste-22169d1b9d6e79d7d0235b8c447c50cbe9e4bab6.jpg",
+        "paste-23e7d28619263258327df5c7fe84aa265d8045e9.jpg",
+        "paste-29f571269588a6ab36625b4bab954c40aeec0655.jpg",
+        "paste-2adf542281573b4e9fd1333a5bbeff5e4d03e465.jpg",
+        "paste-2d0fb5726031e1693b70396798fe84814084813f.jpg",
         "paste-30825a7e9793c22698146844b53fb73adc2a95cf.jpg",
+        "paste-30ed3c94fda3fe0b7c20901cce4532359ea090e8.jpg",
         "paste-30fda8d2e2fa47500d7fbd726410eee435f348db.jpg",
         "paste-314a950e87a6f12538eeff570bab47b437c3aa6d.jpg",
+        "paste-31a0b60cd0d8d1726fbfb8cad55cd1c4ba4e07ea.jpg",
+        "paste-31f2e0fc5dfa32b525e9634cf9b765eccaff9729.jpg",
         "paste-32201f0041656848c41c64946045717301e2784a.jpg",
+        "paste-3252dfc5b6304e0419db2b1f56263345bdf006f8.jpg",
+        "paste-348dcafaf749492eaa4938ca8615312554fc72e4.jpg",
         "paste-34d337097807cfa17b7a93825c984a97574e1fd1.jpg",
+        "paste-34e7c5b75111621e4f1b336ae9142a95aecea9be.jpg",
+        "paste-35922b4e631828a9416ca8281c94c7a0a2173e30.jpg",
+        "paste-36fe8ebf8cd5597eceb42c57f9d6dcdf1db4b3a3.jpg",
+        "paste-3848e25009eba1100dc0720dd5ed70e757c65639.jpg",
         "paste-391833adca9f2ab8ea9ec070b41817d25076be8e.jpg",
         "paste-3968a4e978ab532343b92913e0d336498f032d89.jpg",
         "paste-3bae0878ec477b6fd519bc3275ec01fd08327e4f.jpg",
+        "paste-3bc9873d512d1c4b85c8d564b5d6240c31bf0981.jpg",
         "paste-3bd5e86a288b815ee41330647df302cc956af7fe.jpg",
+        "paste-3c20c13890ffee6cfcb95c289d792c34da01f993.jpg",
+        "paste-3d526e02f61d5d239cfc4bb748a160eb187ad87a.jpg",
         "paste-3ead26fc1fa6a892037277c7496cf77c6caaff3b.jpg",
+        "paste-42f49183e4c5cc7070ee934e419edb4196666eaf.jpg",
         "paste-46cba5bc78021c08b0d7bd5ffb267ac3d881e521.jpg",
+        "paste-49702e7f0d7e204ec0663c1e8a35050de6adf86e.jpg",
         "paste-4a2765b5b55afc7d0dc86472c6bad3005ff45296.jpg",
         "paste-4b770d8141274b601ce5bb4e1aa8cfbd754273a5.jpg",
         "paste-4bfea4fda46069743fac84511b79818bb46db4be.jpg",
         "paste-4d540a10a68b84939e73fa5e260c936890bdfdbb.jpg",
         "paste-4e3ce129b7401662a745d1c880c1badd8adf8dfd.jpg",
         "paste-5022b4bada003e79c4b0c6db7180975b80d609fc.jpg",
+        "paste-5103d8dc3e066eb29a05b7ac768f8dbc8a3fc92d.jpg",
+        "paste-51c79a3d0b8cc95b3bbde1eff9b4dc5e2e8ffa60.jpg",
         "paste-5431723b2d88894a40d1fdf2d9a831b2000f17fe.jpg",
         "paste-595689ffe14d7dfff2f4ac7e13467717b9612727.jpg",
         "paste-5a2c9e3438cf5168c81ff4417baf27a6d9b572bb.jpg",
+        "paste-5cfb3ff04ced8106c96692297713aa07a12f847f.jpg",
+        "paste-5e5a69502d7d3c87e47217bf25efbbc24a08ea2f.jpg",
+        "paste-5eb512e6fa9ba5b93a962855f673630fcdd8d100.jpg",
+        "paste-618326d67c0065ddd90fe1aca391a21123e30afc.jpg",
+        "paste-62951a40a503fed7d8242a95ad66322d4ef34f5f.jpg",
+        "paste-6729f794da72ec68a36d2e78fd02eb5e087b6bb6.jpg",
+        "paste-674e82d3490c766c36970a7d4ac5670624d0f5bc.jpg",
         "paste-680a9cba88658f8762fe60e219401bb17b3bb3cf.jpg",
         "paste-6b28c331e70ed5a585244bca35c51fa68049da61.jpg",
+        "paste-6b29950be33219d7630f912b4e81b7a3148d0046.jpg",
+        "paste-6be41ee0c17e704cf2c853ec1eda2a6104c1a2d0.jpg",
+        "paste-6d77a6de4ad29ab1e8fdc671a4c10637099f23e7.jpg",
         "paste-6e236eb055232624c83df99b5e1984320e124dcb.jpg",
+        "paste-70f6e73d3eda297d289e84be6b2011368ff3683c.jpg",
         "paste-72a53f4bbfea90a35f14d41eebc1d7e0f228be29.jpg",
         "paste-73f425605e32879b0d2c61d0bd97c19c47ee9ac5.jpg",
+        "paste-7437d5d6403b6a65b1bf3d35d497ebb18d203214.jpg",
         "paste-77944cec5f1d9a493b0331e5ca0e8cc7bcbadb06.jpg",
         "paste-77c521fc7081ab0967bb4faf62e829df6f3415b7.jpg",
         "paste-782e8930ba1dd1a9b42df7ddeeb050cf2bfdcbe7.jpg",
@@ -304,54 +368,104 @@
         "paste-792142aa2882788b348e4b2a8175efdc90519954.jpg",
         "paste-7c075ae739ae7443ebfbe60b9b9e34272c23504b.jpg",
         "paste-7c7a594805af46f7406933a6e7d96ba42fc50a4c.jpg",
+        "paste-7d4730a803d33f2c6342821b4692e058e4dd0b12.jpg",
+        "paste-7d6b214449bdc05e0a4b8dbcda7b9a58e53cc0ef.jpg",
         "paste-7f6d25537d57e1b84ba5da76b2407d77ac4e96a7.jpg",
         "paste-82932ea2f91c0b9b497bff1a1c67f9b80989138a.jpg",
+        "paste-843863153e5923eecbdfb9e75c01ac5d533e7a87.jpg",
         "paste-84620114f17806b2599c2d049953b5c69b1a4739.jpg",
+        "paste-8490eff414eedac96d56b4b4c0df18291ed6bf8a.jpg",
+        "paste-85527d8b028e121df8485a1f656f4e7c7ad9db75.jpg",
+        "paste-8571dd25aa480163cf5fa956c62ff085883d6a22.jpg",
+        "paste-85f841377866605ad830192a1d2377d9cc5a0d78.jpg",
         "paste-873800d672f30b7dab2fab86159f4c30f72c82d6.jpg",
         "paste-876bab08d520facb7dc912fda3f95579aa203a94.jpg",
+        "paste-8a49a1f272aad3f08c887a847dc3d13390e7cf08.jpg",
+        "paste-8b742cef76e671adaf21b48839d81197b0156189.jpg",
         "paste-8f9f51b6e30c27e209b6515bb72faafbd8f8ef5e.jpg",
         "paste-904788edb6e5326e057c4e046b766a99dc977d6e.jpg",
         "paste-911005455e7e327912d10bf0802a0ddc2357135e.jpg",
         "paste-95224a7f6865a235f372eabb18562f3529802b4c.jpg",
+        "paste-99d2626b5113815dc1738b25bd65bd3a1e3349c8.jpg",
+        "paste-9d91f272ff155e912f086053735fd111fa9c7fc4.jpg",
         "paste-9f5b5cd1849057ef46613e8275a1fb0c0f72776f.jpg",
         "paste-9fd2efcf2582965e4b005cc48d20cf8a9194cd16.jpg",
         "paste-a2c06c450a6b002d2b038d078fd6c02df16f1f40.jpg",
+        "paste-a4c030efb42f341e2f2a9b44b746f10646e545ea.jpg",
         "paste-a5c847db56c157e882a1053ee68b5fe98b2740f4.jpg",
         "paste-a61e507c7400dcd54d72073085866750233144a8.jpg",
+        "paste-a6b543279cda7c177118576334b366d310a8875c.jpg",
+        "paste-a76f906f97a7ec791af2bb9388008e8212c7343d.jpg",
         "paste-a7e7bae1f1a7931eab6f625dbe55941bf784af19.jpg",
+        "paste-a93916986c3111414c6369c761577079626c2b23.jpg",
         "paste-a9d63a673b3906a1e962e701c27a6810f7f82470.jpg",
         "paste-ace8170768a86b502ded422beb8498749048b1ae.jpg",
+        "paste-b00ae0b0566f5000178f191aa2324ec6de912cb9.jpg",
         "paste-b1a82bb3a633de055b1a700fef8e0af6ceb72637.jpg",
+        "paste-b31d6547a814049b1f23450208de2c9839dcf9f9.jpg",
+        "paste-b36e31ef2714abc42be07fc6f59d9af341e7a54c.jpg",
+        "paste-b3df5ef5ac29a525d46c46c821db220cd44c6076.jpg",
+        "paste-b3e5c3e573964374441a7d6daaca9e928934a982.jpg",
+        "paste-b6f7bcaafe1cea1ec4b2b326d2b92d3a9cd85773.jpg",
         "paste-b9bce582305a24c396acafbe7dbeeb7d9038d598.jpg",
         "paste-bbfb714317025c1396673e47d53fa5ba5d3fed44.jpg",
+        "paste-bc048748d44656b6a8261de1d9783c49f11fa572.jpg",
+        "paste-bc1a2845e4a5ee2baf4d042e3f7e7d4489f2856e.jpg",
+        "paste-bc7b3d618629c9cb9e483c05660720b716c07372.jpg",
+        "paste-be22b22bc5c9bebdcb143beb6335ae53eaeb802f.jpg",
         "paste-bfa83d576b93a7841b2c91d521965d4c6843413d.jpg",
         "paste-c239ea09d9b0ec66eb8c02a7bb8e9865cf4e29cd.jpg",
         "paste-c45cec3204177f46bfc97eed8e5568606a841945.jpg",
+        "paste-c493130b5a039bd357ef8ee6aff46bec3cc45132.jpg",
         "paste-c4d50247df7470869474d72e60fd6a71ee76584d.jpg",
         "paste-c788312c0882612fc7baee97f5f58d31832578a7.jpg",
+        "paste-c7b35ceb651dffc181ca3966f386a46f36808d7f.jpg",
+        "paste-c8eaf83d09c47f5b94ff72e2b55a1b4c4a2facad.jpg",
+        "paste-ca3beb256c078397f765f6f7f3bade8e4867778c.jpg",
         "paste-cc3eee5330fa83dfe6504b0e8aa6420dc3d38edb.jpg",
+        "paste-cd11341d57e22e018361633186ba504f9a66acad.jpg",
         "paste-d09c5043b7d655778cbcd0b25adbbd92171ff4be.jpg",
+        "paste-d1907ee0a9c9a53372711962c28c3dcf28941e45.jpg",
         "paste-d23370c7498b637a645462bfc10da47a01ba22df.jpg",
+        "paste-d31e9ed7f3ffa56841afd21831352fc8a34ae615.jpg",
         "paste-d59fb1fef0eb7d0f39169f4bb5768d092957387b.jpg",
+        "paste-d6ffb1b873e94596ac132bfb3f2bee6151e3dc9c.jpg",
         "paste-d8d36a64563ade629e5f0b7d5b0fa9cb6c91ba5f.jpg",
         "paste-ddda001f39a74d2542d438be031d7b2c9818a41d.jpg",
+        "paste-de6c886a48c8da3204382bb7403890579b8da89c.jpg",
         "paste-e0a9f5facf039d4642075a845a7f70a5a177c986.jpg",
         "paste-e1a48078179dab7e2f69dfe9d4ec69eea56397f9.jpg",
+        "paste-e39de05abde262811d3344e21c4fd859aaaa1a91.jpg",
         "paste-e4b5d802f5c0f957970a680b97e103fb2a2c289e.jpg",
+        "paste-e4c9532f7820f17bb8faa69ea1ee34853c70c07e.jpg",
+        "paste-e4ccf3661415dbf19f1dbdca8020839e57f551f0.jpg",
         "paste-e5dc158495eee84e9584a49e6b900d1bbb91f6c5.jpg",
         "paste-e618f965f361a7e2e8eef69be3ccc24388827a92.jpg",
         "paste-e6e1037891d8d429c30237ccf8484de3df913f18.jpg",
+        "paste-e79da4ada49a384816fa88835ea219c32548a2e5.jpg",
+        "paste-e9f13d1bb9f36f2bb24e637e40ce43a921f42def.jpg",
         "paste-eb70c406782905a7280120d0dc2ccdc77d582c01.jpg",
+        "paste-ec32de26c97cae13b0bb6885956601eba60b6e13.jpg",
+        "paste-ecb85ccee21f53549c2561bc01f652af7f7b8c1f.jpg",
+        "paste-ee348d4d4cb0d719df1e7e570b774d18da9cde3f.jpg",
+        "paste-ee882a80891f6b472bce84eee7a6b9afcdd31d67.jpg",
+        "paste-ef2473b221fd71ffd929cdf18ad9ced6450d2e5d.jpg",
+        "paste-f004e63ab2d29788a509cfc840c0ff94e9750e5e.jpg",
+        "paste-f7c506c20f58034791c263171ba8b1080a72fb6d.jpg",
+        "paste-f7f2d1c2c8a827b1f64a177702963d35897cf46c.jpg",
         "paste-f82e4ce2ea66d8b41aa78ffd2be8d8c49cf594b7.jpg",
         "paste-f8d763287831bb6ba1f5f6bb7745b7e5e287b68a.jpg",
         "paste-fb0885f81164da26f70096abd7075401059ae615.jpg",
+        "paste-fb1172cd6f0fca7bd3800443ea8cb93c84518cf7.jpg",
         "paste-fc23228cd11ce2b9072622084a683abd7997100e.jpg",
         "paste-fc32daee5d50f8579a27c5887974125d5bb84ea5.jpg",
+        "paste-fdeee0c55f141a05c817b787231cecc805bb6a6d.jpg",
         "paste-ff75e1f15bca8da5a6cbe132a6c718abb23d8f16.jpg",
+        "paste-ffbe94ca1a4b0ff149401a3a4a4b9ea87a5dacf4.jpg",
+        "paste-ffdaa1f0832f9c39f77cb7f6461e65fe6671c899.jpg",
         "paste-ffe469056b7954110b9d81cd5b475e58317d9007.jpg",
         "proxy-image (1).jpg",
         "proxy-image.jpg",
-        "queltehue.mp3",
         "rayadito.mp3",
         "rayadito2.mp3",
         "tenca.mp3",
@@ -364,23 +478,25 @@
         "tiuque3.mp3",
         "tordo1.mp3",
         "tordo3.mp3",
-        "tordo4.mp3",
         "tortola2.mp3",
         "traro1.mp3",
         "traro2.mp3",
         "traro3.mp3",
+        "tricachues.jpg",
+        "tucuquere.jpg",
         "tucuquere1.mp3",
         "tucuquere2.mp3",
         "zorzal1.mp3",
         "zorzal2.mp3",
         "zorzal3.mp3"
     ],
+    "mid": "1584738901353",
     "name": "Aves",
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "css": "/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Menlo, baskerville, sans;\n    font-size: 18px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: #D7DEE9; /* FONT COLOR */\n    line-height: 1.6em;\n    background-color: #333B45; /* BACKGROUND COLOR */\n}\n\n/* OTRO ESTILO DE TARJETAS\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: #586e75;\n    background-color: #fdf6e3;\n}\n*/\n\n/* IMAGE CSS CODE */\n\nimg {\n/width: auto;\n/height: auto;\nmax-width: 300px;\nmax-height: 300px;\nborder-radius: 5%;\nborder: 5px solid #ddd;\n}\n\n\n/* TAG CSS CODE*/\n\n.tags{\n//font-family: Menlo, baskerville, adobe caslon pro, sans;\nfont-family:Helvetica;\nfont-size: 14px;\n//font-weight: bold;\ntext-align: center;\ncolor: #595959;\n/text-transform: uppercase; \n}\n\n.new-tag {\n    background-color: #03A9F4;\n    border: none;\n    color: black;\n   padding:.25rem; \n/    padding: 10px 20px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n/  margin: 4px 2px;\n    margin:.25rem;\n/    cursor: pointer;\n    border-radius: 3px;\n   font-weight: bold\n}\n",
+            "css": "/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Menlo, baskerville, sans;\n    font-size: 18px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: #D7DEE9; /* FONT COLOR */\n    line-height: 1.6em;\n    background-color: #333B45; /* BACKGROUND COLOR */\n}\n\n/* OTRO ESTILO DE TARJETAS\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: #586e75;\n    background-color: #fdf6e3;\n}\n*/\n\n/* IMAGE CSS CODE */\n\nimg {\n/width: auto;\n/height: auto;\nmax-width: 400px;\nmax-height: 300px;\nborder-radius: 5%;\nborder: 5px solid #ddd;\n}\n\n.locals-list img {\n  max-height: 800px !important;\n  max-width: 800px !important;\n}\n\n/* TAG CSS CODE*/\n\n.tags{\n//font-family: Menlo, baskerville, adobe caslon pro, sans;\nfont-family:Helvetica;\nfont-size: 14px;\n//font-weight: bold;\ntext-align: center;\ncolor: #595959;\n/text-transform: uppercase; \n}\n\n.new-tag {\n    background-color: #03A9F4;\n    border: none;\n    color: black;\n   padding:.25rem; \n/    padding: 10px 20px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n/  margin: 4px 2px;\n    margin:.25rem;\n/    cursor: pointer;\n    border-radius: 3px;\n   font-weight: bold\n}\n",
             "flds": [
                 {
                     "font": "Arimo",
@@ -389,7 +505,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arimo",
@@ -472,43 +588,45 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Environment::Fauna"
+            ],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n{{Características}}\n{{/Características}}\n\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n<div class=\"locals-list\">\n{{Características}}\n </div>\n{{/Características}}\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Imagen 1 - Nombre",
                     "ord": 0,
-                    "qfmt": "{{Imagen1}}"
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Imagen1}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n{{Características}}\n{{/Características}}\n\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}\n",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n<div class=\"locals-list\">\n{{Características}}\n </div>\n{{/Características}}\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Imagen 2 - Nombre",
                     "ord": 1,
-                    "qfmt": "{{Imagen2}}"
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Imagen2}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n{{Características}}\n{{/Características}}\n\n\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n\n{{#Características}}\n <h4>Características</h4> \n<div class=\"locals-list\">\n{{Características}}\n </div>\n{{/Características}}\n\n\n\n{{#Sonido}}\n <h4>Canto</h4> \n{{Sonido}}\n{{/Sonido}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Imagen 3 - Nombre",
                     "ord": 2,
-                    "qfmt": "{{Imagen3}}"
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Imagen3}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n\n{{#Características}}\n <h4>Características</h4> \n{{Características}}\n{{/Características}}\n",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nombre}}\n<br>\n{{Imagen1}}\n{{#Características}}\n <h4>Características</h4> \n<div class=\"locals-list\">\n{{Características}}\n </div>\n{{/Características}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Sonido - Nombre",
                     "ord": 3,
-                    "qfmt": "¿A qué ave pertenece este sonido?\n<br>\n{{Sonido}}\n\n\n"
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n¿A qué ave pertenece este sonido?\n<br>\n{{Sonido}}\n\n\n"
                 }
             ],
             "type": 0,
@@ -525,13 +643,13 @@
                 "<img src=\"paste-73f425605e32879b0d2c61d0bd97c19c47ee9ac5.jpg\"><img src=\"035csq3.jpg\">",
                 "<img src=\"paste-95224a7f6865a235f372eabb18562f3529802b4c.jpg\">",
                 "[sound:Cachudito.mp3]<br><div>[sound:Cachudito-Vocalizacion.mp3]<br></div>",
-                ""
+                "Son muy abundantes y andan en ramas, son inquietos.<div><img src=\"16892d41359691.5d0bf4f85d95e.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "qg#ajLv(yF",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -543,13 +661,13 @@
                 "<img src=\"paste-8f9f51b6e30c27e209b6515bb72faafbd8f8ef5e.jpg\"><div><img src=\"074wb2.jpg\"><br></div>",
                 "<img src=\"paste-d23370c7498b637a645462bfc10da47a01ba22df.jpg\"><div><img src=\"074jc3.jpg\"><br></div>",
                 "<div>[sound:Chercan - Vocalizacion.mp3]</div><div>[sound:Chercan.mp3]</div><div>[sound:Chercan - Vocalizacion.mp3]<br></div>",
-                "<img src=\"paste-a9d63a673b3906a1e962e701c27a6810f7f82470.jpg\">"
+                "<img src=\"paste-a9d63a673b3906a1e962e701c27a6810f7f82470.jpg\"><div><img src=\"3f52c141359691.5d0bf4f85c447.jpg\">&nbsp;<img src=\"paste-35922b4e631828a9416ca8281c94c7a0a2173e30.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "F3kr_F@3e*",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -557,17 +675,17 @@
             "data": "",
             "fields": [
                 "Chincol",
-                "<img src=\"paste-9f5b5cd1849057ef46613e8275a1fb0c0f72776f.jpg\"><img src=\"Zonotrichia_Capensis.JPG\">",
+                "<img src=\"paste-9f5b5cd1849057ef46613e8275a1fb0c0f72776f.jpg\"><img src=\"Zonotrichia_Capensis.jpg\">",
                 "<img src=\"paste-ddda001f39a74d2542d438be031d7b2c9818a41d.jpg\"><div><img src=\"186gde.jpg\"><br></div>",
                 "<div><img src=\"paste-782e8930ba1dd1a9b42df7ddeeb050cf2bfdcbe7.jpg\"><img src=\"186jt1.jpg\"><br></div>",
                 "<div>[sound:Chincol.mp3]<br></div><div>[sound:Chincol Vocalizacion.mp3]<br></div>",
-                "Canta el típico \"¿Han visto a mi tío Agustín?\""
+                "Es endémico y pequeño.<div>Canta el típico \"¿Han visto a mi tío Agustín?\"</div><div><br></div><div><img src=\"c3fe2a41359691.5d0bf4f85cbd3.jpg\">&nbsp;<img src=\"paste-843863153e5923eecbdfb9e75c01ac5d533e7a87.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "j#0M}rH^n%",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -585,7 +703,7 @@
             "guid": "nCALp?Dj6%",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -596,32 +714,32 @@
                 "<img src=\"paste-f8d763287831bb6ba1f5f6bb7745b7e5e287b68a.jpg\">",
                 "<img src=\"468.jpg\">",
                 "<img src=\"468gde.jpg\">",
-                "[sound:Cotorra Argentina.mp3]<div>[sound:cotorra argentina2.mp3]<br></div><div>[sound:Cotorra Argentina-2.mp3]<br></div>",
-                ""
+                "<div>[sound:cotorra argentina2.mp3]<br></div><div>[sound:Cotorra Argentina-2.mp3]<br></div>",
+                "Es introducida y se cataloga de invasora.<div>Color plumaje verde y blanco. Pico de tono hueso rosado.</div>"
             ],
             "flags": 0,
             "guid": "Qa~BxHmH{D",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Golondrina chilena",
+                "Golondrina chilenar",
                 "<img src=\"paste-20bc919d11ec8db7dad6984977660edd72b780d6.jpg\">",
                 "<img src=\"paste-163eb1f8d54ee3b8ba7e54a0d999fb01ef2f3275.jpg\"><img src=\"053cm1.jpg\">",
                 "<img src=\"053jc1.jpg\"><img src=\"053gde.jpg\"><div><img src=\"paste-911005455e7e327912d10bf0802a0ddc2357135e.jpg\"><br></div>",
                 "<div>[sound:Golondrina Chilena.mp3]<br></div><div>[sound:Golondrina Chilena-Vocalizacion.mp3]<br></div><div>[sound:Golondrina Vocalizacion.mp3]<br></div>",
-                "<img src=\"paste-ff75e1f15bca8da5a6cbe132a6c718abb23d8f16.jpg\">"
+                "<img src=\"paste-ff75e1f15bca8da5a6cbe132a6c718abb23d8f16.jpg\">&nbsp;<img src=\"paste-034ff892ad5cdcc37fdc1257448acc484994340e.jpg\">"
             ],
             "flags": 0,
             "guid": "k4aYGLeGK_",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -631,15 +749,15 @@
                 "Gorrión",
                 "<img src=\"paste-314a950e87a6f12538eeff570bab47b437c3aa6d.jpg\"><img src=\"234gde.jpg\">",
                 "<img src=\"paste-77c521fc7081ab0967bb4faf62e829df6f3415b7.jpg\"><img src=\"234jt3.jpg\">",
-                "<img src=\"234a.jpg\"><img src=\"234jt1.jpg\"><div><br><div>(Izq. Hembra)</div></div>",
-                "<div>[sound:Gorrion.mp3]<br></div><div>[sound:Gorrion Vocalizacion.mp3]</div><div>[sound:Gorrion-Vocalizacion.mp3]<br></div>",
-                ""
+                "<img src=\"234a.jpg\"><img src=\"234jt1.jpg\"><div><br><div>(Hembra)</div></div>",
+                "<div>[sound:Gorrion Vocalizacion.mp3]<br></div><div>[sound:Gorrion - vocalizacion.mp3]<br></div><div><div><br></div><div>No sé si este está correcto --&gt; [sound:Gorrion.mp3]</div></div>",
+                "Es introducido. Viven en su mayoría en ciudades.<div><br></div><div><img src=\"paste-bc1a2845e4a5ee2baf4d042e3f7e7d4489f2856e.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "i$,(j@y/<]",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -647,17 +765,17 @@
             "data": "",
             "fields": [
                 "Loica",
-                "<img src=\"paste-a5c847db56c157e882a1053ee68b5fe98b2740f4.jpg\">",
+                "<img src=\"paste-a5c847db56c157e882a1053ee68b5fe98b2740f4.jpg\"><img src=\"paste-29f571269588a6ab36625b4bab954c40aeec0655.jpg\">",
                 "<img src=\"paste-bfa83d576b93a7841b2c91d521965d4c6843413d.jpg\">",
                 "<img src=\"paste-595689ffe14d7dfff2f4ac7e13467717b9612727.jpg\">",
                 "[sound:Loica.mp3]<br><div>[sound:Loica Vocalizacion.mp3]<br></div>",
-                ""
+                "<img src=\"paste-a76f906f97a7ec791af2bb9388008e8212c7343d.jpg\">"
             ],
             "flags": 0,
             "guid": "G7fL].%(`i",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -666,16 +784,16 @@
             "fields": [
                 "Loro Tricahue",
                 "<img src=\"paste-3bae0878ec477b6fd519bc3275ec01fd08327e4f.jpg\"><img src=\"paste-4d540a10a68b84939e73fa5e260c936890bdfdbb.jpg\">",
-                "<img src=\"paste-c45cec3204177f46bfc97eed8e5568606a841945.jpg\"><img src=\"059rrc1.jpg\">",
+                "<img src=\"paste-c45cec3204177f46bfc97eed8e5568606a841945.jpg\"><img src=\"059rrc1.jpg\"><img src=\"tricachues.jpg\">",
                 "<img src=\"059jc3.jpg\"><img src=\"paste-eb70c406782905a7280120d0dc2ccdc77d582c01.jpg\">",
                 "[sound:Tricahue Vocalizacion.mp3]<div>[sound:Tricahue2.mp3]</div>",
-                ""
+                "<img src=\"paste-b6f7bcaafe1cea1ec4b2b326d2b92d3a9cd85773.jpg\">"
             ],
             "flags": 0,
             "guid": "kRdm28Vn^$",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -687,14 +805,13 @@
                 "<img src=\"paste-d59fb1fef0eb7d0f39169f4bb5768d092957387b.jpg\"><img src=\"304gde.jpg\">",
                 "<img src=\"304a.jpg\"><img src=\"304b.jpg\"><br><div>Izq. Hembra</div><div>Der. Inmaduro</div>",
                 "[sound:Mirlo.mp3]<div>[sound:Mirlo - Vocalización.mp3]<br></div>",
-                "Son parásitas de nidos. Tiene diformismo sexual. Es más pequeño que el Tordo.<div>El macho presenta un plumaje negro con tornasoles azul/violeta, en cambio la hembra presenta un color café, partes inferiores más claras y de menor tamaño que el macho, similar a los juveniles</div>"
+                "Son parásitas de nidos. Tiene diformismo sexual. Es más pequeño que el Tordo.<div>El macho presenta un plumaje negro con tornasoles azul/violeta, en cambio la hembra presenta un color café, partes inferiores más claras y de menor tamaño que el macho, similar a los juveniles.</div><div><br></div><div><img src=\"eb814f41359691.5d0bf4f85d29c.jpg\">&nbsp;<img src=\"paste-6be41ee0c17e704cf2c853ec1eda2a6104c1a2d0.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "lMVJdQ%9p;",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna",
-                "marked"
+                "Environment::Fauna"
             ]
         },
         {
@@ -705,14 +822,14 @@
                 "<img src=\"paste-f82e4ce2ea66d8b41aa78ffd2be8d8c49cf594b7.jpg\"><img src=\"049.jpg\">",
                 "<img src=\"paste-4a2765b5b55afc7d0dc86472c6bad3005ff45296.jpg\"><img src=\"049wb1.jpg\">",
                 "<img src=\"paste-7f6d25537d57e1b84ba5da76b2407d77ac4e96a7.jpg\"><img src=\"049jt1.jpg\">",
-                "[sound:queltehue.mp3]<div>[sound:Queltehue-vocalizacion.mp3]<br></div>",
-                ""
+                "<div>[sound:Queltehue.mp3]</div><div>[sound:Queltehue-Vocalizacion.mp3]<br></div>",
+                "<img src=\"paste-f7f2d1c2c8a827b1f64a177702963d35897cf46c.jpg\">"
             ],
             "flags": 0,
             "guid": "EW4HGA_^(*",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -730,43 +847,8 @@
             "guid": "B)JmaWxvFC",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tiuque",
-                "<img src=\"paste-4e3ce129b7401662a745d1c880c1badd8adf8dfd.jpg\"><img src=\"253jt3.jpg\"><img src=\"253jt4.jpg\">",
-                "<img src=\"paste-3968a4e978ab532343b92913e0d336498f032d89.jpg\"><img src=\"253jt5.jpg\">",
-                "<img src=\"paste-c4d50247df7470869474d72e60fd6a71ee76584d.jpg\"><img src=\"253dr1.jpg\">",
-                "[sound:tiuque.mp3]<br><div>[sound:tiuque2.mp3]<br></div><div>[sound:tiuque3.mp3]<br></div><div>[sound:Tiuque-2.mp3]<br></div><div>[sound:Tiuque Vocalizacion.mp3]<br></div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "IPv8%7](r:",
-            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": [
-                "Fauna"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tordo",
-                "<img src=\"133cm1.jpg\"><img src=\"133hk1.jpg\">",
-                "<img src=\"133gde.jpg\">",
-                "<img src=\"133.jpg\"><img src=\"133jt1.jpg\">",
-                "<div>[sound:tordo1.mp3]<br></div><div>[sound:tordo3.mp3]<br></div><div>[sound:tordo4.mp3]<br></div><div>[sound:Tordo2.mp3]<br></div><div>[sound:Tordo Vocalizacion.mp3]</div>",
-                "Color negro brillante. Sin dimorfismo sexual. Pico y patas negras. Es más grande que el Mirlo.<div>Suele desplazarse en bandadas de diversos números de ejemplares con comportamiento bullicioso.&nbsp;</div><div><br></div><div><img src=\"paste-fb0885f81164da26f70096abd7075401059ae615.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "LUx`G|JDh{",
-            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": [
-                "Fauna"
+                "Environment::Fauna",
+                "leech"
             ]
         },
         {
@@ -774,17 +856,17 @@
             "data": "",
             "fields": [
                 "Tórtola",
-                "<img src=\"paste-391833adca9f2ab8ea9ec070b41817d25076be8e.jpg\"><div><img src=\"paste-bbfb714317025c1396673e47d53fa5ba5d3fed44.jpg\"><br></div>",
-                "<img src=\"297cm1.jpg\"><br><div><img src=\"paste-7c075ae739ae7443ebfbe60b9b9e34272c23504b.jpg\"><br></div>",
-                "<img src=\"paste-7864d8ff58c299a0f9cf3119f61602d0fe89ff77.jpg\"><img src=\"297csq1.jpg\">",
-                "[sound:tortola2.mp3]<br><div>[sound:Tortola Vocalizacion.mp3]<br></div><div>[sound:Tortola-Vocalizacion.mp3]</div>",
-                ""
+                "<img src=\"paste-391833adca9f2ab8ea9ec070b41817d25076be8e.jpg\">&nbsp;<img src=\"paste-bbfb714317025c1396673e47d53fa5ba5d3fed44.jpg\">",
+                "<img src=\"297cm1.jpg\">&nbsp;<img src=\"paste-7c075ae739ae7443ebfbe60b9b9e34272c23504b.jpg\">",
+                "<img src=\"paste-7864d8ff58c299a0f9cf3119f61602d0fe89ff77.jpg\">&nbsp;<img src=\"297csq1.jpg\">",
+                "<div>[sound:Tortola Vocalizacion.mp3]<br></div><div>[sound:tortola2.mp3]<br></div><div>[sound:Tortola-Vocalizacion.mp3]<br></div>",
+                "<img src=\"paste-5eb512e6fa9ba5b93a962855f673630fcdd8d100.jpg\">"
             ],
             "flags": 0,
             "guid": "h6ZK7*yL-o",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -796,13 +878,13 @@
                 "<div><img src=\"paste-32201f0041656848c41c64946045717301e2784a.jpg\"><img src=\"168gdea.jpg\"><br></div><div>Der. Inmaduro</div>",
                 "<img src=\"paste-a7e7bae1f1a7931eab6f625dbe55941bf784af19.jpg\"><img src=\"168jt1.jpg\">",
                 "<div>[sound:zorzal1.mp3]<br></div><div>[sound:zorzal2.mp3]<br></div><div>[sound:zorzal3.mp3]<br></div><div>[sound:Zorzal2-2.mp3]<br></div><div>[sound:Zorzal Vocalizacion.mp3]<br></div><div>[sound:Zorzal-Vocalizacion.mp3]<br></div>",
-                ""
+                "<img src=\"paste-b31d6547a814049b1f23450208de2c9839dcf9f9.jpg\">"
             ],
             "flags": 0,
             "guid": "nEp<3WF_Op",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -814,13 +896,13 @@
                 "<img src=\"paste-72a53f4bbfea90a35f14d41eebc1d7e0f228be29.jpg\">",
                 "<img src=\"paste-067b2a2c43a94063b7b9df557e03603c1835f7ed.jpg\"><img src=\"293wb1.jpg\">",
                 "[sound:carpinterito.mp3]",
-                ""
+                "<img src=\"paste-99d2626b5113815dc1738b25bd65bd3a1e3349c8.jpg\">"
             ],
             "flags": 0,
             "guid": "Ci+>6*#:m9",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -831,14 +913,14 @@
                 "<img src=\"paste-77944cec5f1d9a493b0331e5ca0e8cc7bcbadb06.jpg\">",
                 "<img src=\"paste-cc3eee5330fa83dfe6504b0e8aa6420dc3d38edb.jpg\">",
                 "<img src=\"paste-84620114f17806b2599c2d049953b5c69b1a4739.jpg\">",
-                "[sound:Diuca Vocalizacion.mp3]<br><div>[sound:Diuca-Vocalizacion.mp3]<br></div>",
-                ""
+                "[sound:Diuca Vocalizacion.mp3]<br><div>[sound:Diuca-Vocalizacion.mp3]<br></div><div>[sound:diuca_1.mp3]</div><div>[sound:diuca_2.mp3]<br></div><div>[sound:diuca_5.mp3]<br></div>",
+                "<img src=\"paste-ffdaa1f0832f9c39f77cb7f6461e65fe6671c899.jpg\">"
             ],
             "flags": 0,
             "guid": "C$V?>]ef4s",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -846,17 +928,17 @@
             "data": "",
             "fields": [
                 "Cóndor",
-                "<img src=\"paste-e618f965f361a7e2e8eef69be3ccc24388827a92.jpg\"><img src=\"088wb2.jpg\"><div>Der. Hembra</div>",
-                "<img src=\"paste-4bfea4fda46069743fac84511b79818bb46db4be.jpg\"><img src=\"088wb1.jpg\">",
+                "<img src=\"paste-e618f965f361a7e2e8eef69be3ccc24388827a92.jpg\"><img src=\"088wb2.jpg\"><img src=\"paste-6d77a6de4ad29ab1e8fdc671a4c10637099f23e7.jpg\"><div>Der. Hembra</div>",
+                "<img src=\"paste-4bfea4fda46069743fac84511b79818bb46db4be.jpg\"><img src=\"088wb1.jpg\"><img src=\"paste-c7b35ceb651dffc181ca3966f386a46f36808d7f.jpg\">",
                 "<div><img src=\"088wb3.jpg\"><img src=\"paste-873800d672f30b7dab2fab86159f4c30f72c82d6.jpg\"><img src=\"088gde.jpg\"><br></div><div>Izq. Macho subadulto</div>",
-                "",
-                ""
+                "[sound:condor1.mp3]",
+                "<img src=\"paste-7d4730a803d33f2c6342821b4692e058e4dd0b12.jpg\">"
             ],
             "flags": 0,
             "guid": "sp23}kYw^&",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -874,7 +956,7 @@
             "guid": "Rb&?8|@FiZ",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -892,7 +974,7 @@
             "guid": "BJxv]84CN+",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -904,13 +986,31 @@
                 "<img src=\"paste-a61e507c7400dcd54d72073085866750233144a8.jpg\"><img src=\"081b.jpg\">",
                 "<img src=\"paste-5a2c9e3438cf5168c81ff4417baf27a6d9b572bb.jpg\">",
                 "[sound:Fiofio Vocalizacion.mp3]<div>[sound:Fiofio Vocalizacion2.mp3]&nbsp;<br></div>",
-                ""
+                "<img src=\"937fdc41359691.5d0bf4f85df11.jpg\">"
             ],
             "flags": 0,
             "guid": "v+:DG5d_64",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tordo",
+                "<img src=\"133cm1.jpg\"><img src=\"133hk1.jpg\">",
+                "<img src=\"133gde.jpg\">",
+                "<img src=\"133.jpg\"><img src=\"133jt1.jpg\">",
+                "<div>[sound:tordo1.mp3]<br></div><div>[sound:tordo3.mp3]<br></div><div>[sound:Tordo2.mp3]<br></div><div>[sound:Tordo Vocalizacion.mp3]</div>",
+                "Color negro brillante. Sin dimorfismo sexual. Pico y patas negras. Es más grande que el Mirlo.<div>Suele desplazarse en bandadas de diversos números de ejemplares con comportamiento bullicioso.&nbsp;</div><div><br></div><div><img src=\"paste-fb0885f81164da26f70096abd7075401059ae615.jpg\">&nbsp;<img src=\"paste-1b9847a37a026f4c477206c609ddc1016b0196a7.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "LUx`G|JDh{",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
             ]
         },
         {
@@ -920,15 +1020,15 @@
                 "Carpintero negro",
                 "<img src=\"paste-4b770d8141274b601ce5bb4e1aa8cfbd754273a5.jpg\">",
                 "<img src=\"proxy-image (1).jpg\"><img src=\"115gb1.jpg\">",
-                "<img src=\"115mr1.jpg\"><img src=\"115gb2.jpg\"><br><div>Hembra</div>",
+                "<img src=\"115mr1.jpg\"><img src=\"115gb2.jpg\"><img src=\"paste-62951a40a503fed7d8242a95ad66322d4ef34f5f.jpg\"><br><div>Hembra</div>",
                 "[sound:carpintero_negro.mp3]<br><div>[sound:carpintero_negro_2.mp3]<br></div>",
-                ""
+                "<img src=\"paste-b3df5ef5ac29a525d46c46c821db220cd44c6076.jpg\">"
             ],
             "flags": 0,
             "guid": "iNZ{4)|0+*",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -936,17 +1036,17 @@
             "data": "",
             "fields": [
                 "Lechuza blanca",
-                "<img src=\"paste-038403b111b63b73ece30546e8a14410cf7bea3a.jpg\">",
-                "<img src=\"paste-9fd2efcf2582965e4b005cc48d20cf8a9194cd16.jpg\"><img src=\"094rs1.jpg\">",
+                "<img src=\"paste-038403b111b63b73ece30546e8a14410cf7bea3a.jpg\"><img src=\"paste-6b29950be33219d7630f912b4e81b7a3148d0046.jpg\">",
+                "<img src=\"paste-9fd2efcf2582965e4b005cc48d20cf8a9194cd16.jpg\"><img src=\"094rs1.jpg\"><img src=\"paste-3c20c13890ffee6cfcb95c289d792c34da01f993.jpg\">",
                 "<div><img src=\"094jc2.jpg\"><img src=\"094jc4.jpg\"><br></div>",
                 "[sound:Lechuza Vocalizacion.mp3]",
-                ""
+                "<img src=\"paste-05056e005337bfcab6839b23554fa9e48323c42e.jpg\">"
             ],
             "flags": 0,
             "guid": "x-CCvACdE*",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -954,17 +1054,17 @@
             "data": "",
             "fields": [
                 "Tucúquere",
-                "<img src=\"paste-fc23228cd11ce2b9072622084a683abd7997100e.jpg\"><img src=\"044.jpg\">",
-                "<img src=\"paste-fc32daee5d50f8579a27c5887974125d5bb84ea5.jpg\"><img src=\"044ea1.jpg\">",
+                "<img src=\"paste-fc23228cd11ce2b9072622084a683abd7997100e.jpg\"><img src=\"044.jpg\"><img src=\"paste-ef2473b221fd71ffd929cdf18ad9ced6450d2e5d.jpg\">",
+                "<img src=\"paste-fc32daee5d50f8579a27c5887974125d5bb84ea5.jpg\"><img src=\"044ea1.jpg\"><img src=\"tucuquere.jpg\">",
                 "<img src=\"paste-e6e1037891d8d429c30237ccf8484de3df913f18.jpg\"><img src=\"044jc1.jpg\">",
                 "<div>[sound:tucuquere1.mp3]<br></div><div>[sound:tucuquere2.mp3]<br></div><div>[sound:Tucuquere Vocalizacion.mp3]<br></div><div>[sound:Tucuquere-Vocalizacion.mp3]<br></div>",
-                ""
+                "A diferencia del pequén, el tucúquere tiene unas plumas que simulan ser orejas.<div><br></div><div><img src=\"paste-0db8af33a7716172dff5b7602e5130d07963f7d1.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "d<f|l:Y7Y9",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -972,17 +1072,17 @@
             "data": "",
             "fields": [
                 "Chuncho",
-                "<img src=\"paste-30825a7e9793c22698146844b53fb73adc2a95cf.jpg\"><img src=\"036gde.jpg\">",
-                "<img src=\"paste-027682815d022aabf0ac19e4400356f3c239327a.jpg\"><img src=\"036er1.jpg\">",
+                "<img src=\"paste-30825a7e9793c22698146844b53fb73adc2a95cf.jpg\"><img src=\"036gde.jpg\"><img src=\"chuncho.jpg\">",
+                "<img src=\"paste-027682815d022aabf0ac19e4400356f3c239327a.jpg\"><img src=\"036er1.jpg\"><img src=\"paste-b36e31ef2714abc42be07fc6f59d9af341e7a54c.jpg\">",
                 "<img src=\"paste-5431723b2d88894a40d1fdf2d9a831b2000f17fe.jpg\"><img src=\"036mf2.jpg\">",
                 "[sound:Chuncho Vocalizacion.mp3]<br><div>[sound:Chuncho Vocalizacion2.mp3]</div>",
-                ""
+                "<img src=\"paste-e39de05abde262811d3344e21c4fd859aaaa1a91.jpg\">"
             ],
             "flags": 0,
             "guid": "pl:beZo976",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -991,16 +1091,16 @@
             "fields": [
                 "Concón",
                 "<img src=\"358ol1.jpg\">",
-                "<img src=\"358tr1.jpg\">",
+                "<img src=\"358tr1.jpg\"><img src=\"paste-16a93926daac884990d3e226f665819bd0fa9fc7.jpg\">",
                 "<img src=\"358gde.jpg\"><img src=\"358gb1.jpg\">",
                 "[sound:concon1.mp3]<br><div>[sound:concon2.mp3]<br></div><div>[sound:concon3.mp3]<br></div>",
-                ""
+                "<img src=\"paste-d6ffb1b873e94596ac132bfb3f2bee6151e3dc9c.jpg\">"
             ],
             "flags": 0,
             "guid": "njZ=y<;uO@",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1009,16 +1109,16 @@
             "fields": [
                 "Martín pescador",
                 "<img src=\"paste-22169d1b9d6e79d7d0235b8c447c50cbe9e4bab6.jpg\"><img src=\"047d.jpg\">",
-                "<img src=\"paste-0d1de729c65a67ba488c220dce754d93a8dfad25.jpg\">",
+                "<img src=\"paste-0d1de729c65a67ba488c220dce754d93a8dfad25.jpg\"><img src=\"martin_pescador.jpg\">",
                 "<img src=\"047ah1.jpg\">",
                 "[sound:martin_pescador.mp3]<br><div>[sound:martin_pescador2.mp3]<br></div><div>[sound:martin_pescador3.mp3]<br></div>",
-                ""
+                "<img src=\"paste-130c1529aba55d27b30fc1c782a2bf62abc21503.jpg\">"
             ],
             "flags": 0,
             "guid": "m$9:C$e?$e",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1026,17 +1126,17 @@
             "data": "",
             "fields": [
                 "Rayadito (comesebo chico)",
-                "<img src=\"Rayadito---Pio-Marshall.jpg\"><img src=\"080jc2.jpg\"><div><br></div>",
-                "<img src=\"080dr3.jpg\"><img src=\"Rayadito2-portada-Pio-Marshall-1180x652.jpg\">",
-                "<img src=\"paste-e0a9f5facf039d4642075a845a7f70a5a177c986.jpg\"><img src=\"Rayadito3---Pio-Marshall.jpg\">",
+                "<img src=\"paste-9d91f272ff155e912f086053735fd111fa9c7fc4.jpg\">&nbsp;<img src=\"080jc2.jpg\"><div><br></div>",
+                "<img src=\"080dr3.jpg\">&nbsp;<img src=\"paste-02b2453a53b1fd7eaf32b8037182594adbe9b404.jpg\">",
+                "<img src=\"paste-e0a9f5facf039d4642075a845a7f70a5a177c986.jpg\">&nbsp;<img src=\"paste-5e5a69502d7d3c87e47217bf25efbbc24a08ea2f.jpg\">",
                 "[sound:rayadito.mp3]<br><div>[sound:rayadito2.mp3]<br></div>",
-                ""
+                "<img src=\"paste-a4c030efb42f341e2f2a9b44b746f10646e545ea.jpg\">"
             ],
             "flags": 0,
             "guid": "JjEerb6:<]",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1054,7 +1154,7 @@
             "guid": "DNAG%C7Wxj",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1062,17 +1162,17 @@
             "data": "",
             "fields": [
                 "Carancho o Traro",
-                "<img src=\"045jc3.jpg\">",
+                "<img src=\"045jc3.jpg\"><img src=\"paste-6b28c331e70ed5a585244bca35c51fa68049da61.jpg\">",
                 "<img src=\"045jc1.jpg\"><img src=\"045vb1.jpg\">",
-                "<img src=\"045pc1.jpg\">",
+                "<img src=\"045pc1.jpg\"><img src=\"paste-ee348d4d4cb0d719df1e7e570b774d18da9cde3f.jpg\"><div>Der. Juvenil</div>",
                 "[sound:traro1.mp3]<br><div>[sound:traro2.mp3]<br></div><div>[sound:traro3.mp3]<br></div>",
-                ""
+                "<img src=\"paste-3d526e02f61d5d239cfc4bb748a160eb187ad87a.jpg\">"
             ],
             "flags": 0,
             "guid": "rR(NttO!h=",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1083,14 +1183,14 @@
                 "<img src=\"paste-ace8170768a86b502ded422beb8498749048b1ae.jpg\"><img src=\"073jt13.jpg\">",
                 "<img src=\"paste-680a9cba88658f8762fe60e219401bb17b3bb3cf.jpg\">",
                 "<img src=\"073jt14.jpg\">",
-                "[sound:Tenca-vocalizacion.mp3]<div>[sound:Tenca Vocalizacion2.mp3]<br></div><div>[sound:tenca.mp3]<br></div><div>[sound:tenca2.mp3]<br></div><div>[sound:tenca3.mp3]<br></div>",
-                ""
+                "<div>[sound:Tenca Vocalizacion.mp3]</div><div>[sound:Tenca Vocalizacion2.mp3]<br></div><div>[sound:tenca.mp3]<br></div><div>[sound:tenca2.mp3]<br></div><div>[sound:tenca3.mp3]<br></div>",
+                "<img src=\"03995341359691.5d0bf4f85c7f3.jpg\"><img src=\"paste-ecb85ccee21f53549c2561bc01f652af7f7b8c1f.jpg\">"
             ],
             "flags": 0,
             "guid": "O?~>{pthnW",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1108,7 +1208,7 @@
             "guid": "FI}#lD=Hbr",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
             "tags": [
-                "Fauna"
+                "Environment::Fauna"
             ]
         },
         {
@@ -1120,28 +1220,32 @@
                 "<img src=\"146ss2.jpg\">",
                 "<img src=\"proxy-image.jpg\">",
                 "[sound:Cachana-Vocalizacion.mp3]",
-                ""
+                "Pico ganchudo, ancho y corto.<div>Cola y marca en el centro del abdómen de color rojo.</div><div><br></div><div><img src=\"paste-85527d8b028e121df8485a1f656f4e7c7ad9db75.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "P`Ddp>1Xur",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
                 "Cernícalo",
-                "<img src=\"255.jpg\">",
-                "<img src=\"255ss1.jpg\"><img src=\"255jt1.jpg\">",
-                "<img src=\"255wb1.jpg\">",
+                "<img src=\"255.jpg\"><img src=\"paste-23e7d28619263258327df5c7fe84aa265d8045e9.jpg\"><img src=\"paste-51c79a3d0b8cc95b3bbde1eff9b4dc5e2e8ffa60.jpg\">",
+                "<img src=\"255ss1.jpg\"><img src=\"255jt1.jpg\"><img src=\"paste-14cf91e0d6f2519f54da9cfd1b08b15d1bee2c81.jpg\">",
+                "<img src=\"255wb1.jpg\"><img src=\"paste-70f6e73d3eda297d289e84be6b2011368ff3683c.jpg\">",
                 "[sound:Cernicalo-Vocalizacion.mp3]",
-                ""
+                "<div>Es el halcón más pequeño de Chile</div><div><br><div><img src=\"48e1d641359691.5d0bf4f85dc4e.jpg\"><img src=\"paste-b00ae0b0566f5000178f191aa2324ec6de912cb9.jpg\"><img src=\"Untitled (2).jpg\"><img src=\"paste-3bc9873d512d1c4b85c8d564b5d6240c31bf0981.jpg\"><br></div></div>"
             ],
             "flags": 0,
             "guid": "cl&8,SQr|M",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1152,12 +1256,14 @@
                 "<img src=\"077jt1.jpg\"><img src=\"077dr2.jpg\">",
                 "<img src=\"077jt3.jpg\">",
                 "[sound:Diucon-Vocalizacion.mp3]",
-                ""
+                "<img src=\"3ec10641359691.5d0bf4f85e25c.jpg\">"
             ],
             "flags": 0,
             "guid": "ElXXA&(&GZ",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1166,14 +1272,16 @@
                 "Garza chica",
                 "<img src=\"089.jpg\"><img src=\"089jt3.jpg\">",
                 "<img src=\"089jt2.jpg\">",
-                "<img src=\"089jt4.jpg\">",
+                "<img src=\"089jt4.jpg\"><img src=\"paste-5103d8dc3e066eb29a05b7ac768f8dbc8a3fc92d.jpg\">",
                 "[sound:Garza Chica-Vocalizacion.mp3]",
-                ""
+                "Garza grande: Pico amarillo<br>Garza chica: Pico negro con amarillos en la base<div><br></div><div><img src=\"paste-42f49183e4c5cc7070ee934e419edb4196666eaf.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "kgetAb&~DL",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1182,14 +1290,16 @@
                 "Garza grande",
                 "<img src=\"078.jpg\">",
                 "<img src=\"078jt1.jpg\">",
-                "<img src=\"078wb1.jpg\">",
+                "<img src=\"078wb1.jpg\"><img src=\"paste-8490eff414eedac96d56b4b4c0df18291ed6bf8a.jpg\">",
                 "[sound:Garza Grande-Vocalizacion.mp3]",
-                ""
+                "Garza grande: Pico amarillo<br>Garza chica: Pico negro con amarillos en la base<div><br></div><div><img src=\"paste-f7c506c20f58034791c263171ba8b1080a72fb6d.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "Hi$RZw%8d-",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1205,23 +1315,27 @@
             "flags": 0,
             "guid": "cg~IEJD6KH",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
                 "Huairavo",
-                "<img src=\"005a.jpg\"><img src=\"005gde.jpg\">",
+                "<img src=\"005a.jpg\"><img src=\"005gde.jpg\"><div>Izq. Juvenil</div>",
                 "<img src=\"005eb1.jpg\">",
                 "<img src=\"005g.jpg\">",
                 "[sound:Huairavo-Vocalizacion.mp3]",
-                ""
+                "<img src=\"paste-fb1172cd6f0fca7bd3800443ea8cb93c84518cf7.jpg\">"
             ],
             "flags": 0,
             "guid": "o/UU8eu3Ge",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1232,12 +1346,14 @@
                 "<img src=\"042jc1.jpg\"><img src=\"042.jpg\">",
                 "<img src=\"042jc6.jpg\"><img src=\"042a.jpg\">",
                 "[sound:Jilguero-Vocalizacion.mp3]",
-                ""
+                "<img src=\"038c4741359691.5d0bf4f85e980.jpg\">&nbsp;<img src=\"paste-31f2e0fc5dfa32b525e9634cf9b765eccaff9729.jpg\">"
             ],
             "flags": 0,
             "guid": "o~%_-P7AZR",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
@@ -1248,28 +1364,176 @@
                 "<img src=\"051jt7.jpg\"><img src=\"051jt5.jpg\">",
                 "<img src=\"051jt4.jpg\">",
                 "[sound:Perrito-Vocalizacion.mp3]",
-                ""
+                "<img src=\"paste-3848e25009eba1100dc0720dd5ed70e757c65639.jpg\">"
             ],
             "flags": 0,
             "guid": "m*B~-mi&v!",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
                 "Carancho cordillerano",
-                "<img src=\"paste-6b28c331e70ed5a585244bca35c51fa68049da61.jpg\"><img src=\"029rrc1.jpg\"><img src=\"029wb1.jpg\"><div>Der. Inmaduro</div>",
+                "<img src=\"029rrc1.jpg\"><img src=\"029wb1.jpg\"><div>Der. Inmaduro</div>",
                 "<img src=\"paste-b9bce582305a24c396acafbe7dbeeb7d9038d598.jpg\"><img src=\"029gc1.jpg\">",
                 "<img src=\"paste-904788edb6e5326e057c4e046b766a99dc977d6e.jpg\"><img src=\"029jc4.jpg\">",
                 "[sound:carancho2.mp3]<br><div>[sound:carancho3.mp3]<br></div><div>[sound:carancho4.mp3]<br></div>",
-                ""
+                "<img src=\"paste-2adf542281573b4e9fd1333a5bbeff5e4d03e465.jpg\">"
             ],
             "flags": 0,
             "guid": "L*qsH8Hyg(",
             "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
-            "tags": []
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jote de cabeza colorada",
+                "<img src=\"paste-49702e7f0d7e204ec0663c1e8a35050de6adf86e.jpg\">",
+                "<img src=\"paste-85f841377866605ad830192a1d2377d9cc5a0d78.jpg\">",
+                "",
+                "",
+                "<img src=\"paste-16d49b9410f380360dd6e8b3ee0153d74d709f20.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "jMGvCPnbXU",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jote de cabeza negra",
+                "<img src=\"paste-1b4a5bda79533b287219aec27c73478b9b985ce3.jpg\">",
+                "<img src=\"paste-f004e63ab2d29788a509cfc840c0ff94e9750e5e.jpg\">",
+                "",
+                "",
+                "<img src=\"paste-bc7b3d618629c9cb9e483c05660720b716c07372.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "pB<jUC57az",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Halcón perdiguero",
+                "<img src=\"paste-6729f794da72ec68a36d2e78fd02eb5e087b6bb6.jpg\"><img src=\"paste-7437d5d6403b6a65b1bf3d35d497ebb18d203214.jpg\"><img src=\"paste-31a0b60cd0d8d1726fbfb8cad55cd1c4ba4e07ea.jpg\">",
+                "<img src=\"paste-2d0fb5726031e1693b70396798fe84814084813f.jpg\"><img src=\"239.jpg\"><img src=\"paste-be22b22bc5c9bebdcb143beb6335ae53eaeb802f.jpg\">",
+                "<img src=\"paste-0091158dbca9f277fe98933f3f4b39706537de14.jpg\"><img src=\"paste-5cfb3ff04ced8106c96692297713aa07a12f847f.jpg\"><img src=\"paste-ee882a80891f6b472bce84eee7a6b9afcdd31d67.jpg\">",
+                "",
+                "<img src=\"paste-b00ae0b0566f5000178f191aa2324ec6de912cb9.jpg\"><img src=\"Untitled (2).jpg\"><img src=\"paste-c8eaf83d09c47f5b94ff72e2b55a1b4c4a2facad.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "b;%j}.~YAf",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Halcón peregrino",
+                "<img src=\"paste-674e82d3490c766c36970a7d4ac5670624d0f5bc.jpg\"><img src=\"paste-34e7c5b75111621e4f1b336ae9142a95aecea9be.jpg\"><img src=\"paste-fdeee0c55f141a05c817b787231cecc805bb6a6d.jpg\">",
+                "<img src=\"paste-d31e9ed7f3ffa56841afd21831352fc8a34ae615.jpg\"><img src=\"paste-8571dd25aa480163cf5fa956c62ff085883d6a22.jpg\"><img src=\"paste-3252dfc5b6304e0419db2b1f56263345bdf006f8.jpg\">",
+                "<img src=\"paste-ffbe94ca1a4b0ff149401a3a4a4b9ea87a5dacf4.jpg\"><img src=\"paste-618326d67c0065ddd90fe1aca391a21123e30afc.jpg\"><img src=\"paste-de6c886a48c8da3204382bb7403890579b8da89c.jpg\">",
+                "",
+                "<div>Es el más grande de los halcones chilenos.</div><div><br></div><img src=\"paste-b00ae0b0566f5000178f191aa2324ec6de912cb9.jpg\"><img src=\"Untitled (2).jpg\"><img src=\"paste-1ec758dcb43feef0b8742e6a8849a1df40ef234a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "xb_(V%^0[%",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tiuque",
+                "<img src=\"paste-4e3ce129b7401662a745d1c880c1badd8adf8dfd.jpg\"><img src=\"253jt3.jpg\"><img src=\"253jt4.jpg\">",
+                "<img src=\"paste-3968a4e978ab532343b92913e0d336498f032d89.jpg\"><img src=\"253jt5.jpg\">",
+                "<img src=\"paste-c4d50247df7470869474d72e60fd6a71ee76584d.jpg\"><img src=\"253dr1.jpg\">",
+                "[sound:tiuque.mp3]<br><div>[sound:tiuque2.mp3]<br></div><div>[sound:tiuque3.mp3]<br></div><div>[sound:Tiuque-2.mp3]<br></div><div>[sound:Tiuque Vocalizacion.mp3]<br></div>",
+                "<img src=\"38f6c741359691.5d0bf4f85ceec.jpg\">&nbsp;<img src=\"paste-1de24bf4eeb04fec0bb6a7f67d8574db2637c3f7.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "M.eH<4C-gz",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pequén",
+                "<img src=\"paste-e79da4ada49a384816fa88835ea219c32548a2e5.jpg\"><img src=\"paste-1a44d07efd82132df3d9c4ebac7e0e2502f6e2c8.jpg\">",
+                "<img src=\"paste-c493130b5a039bd357ef8ee6aff46bec3cc45132.jpg\"><img src=\"paste-bc048748d44656b6a8261de1d9783c49f11fa572.jpg\"><img src=\"paste-30ed3c94fda3fe0b7c20901cce4532359ea090e8.jpg\"><div>Der. Juvenil</div>",
+                "<img src=\"paste-cd11341d57e22e018361633186ba504f9a66acad.jpg\"><img src=\"paste-a6b543279cda7c177118576334b366d310a8875c.jpg\"><img src=\"paste-b3e5c3e573964374441a7d6daaca9e928934a982.jpg\">",
+                "",
+                "A diferencia del pequén, el tucúquere tiene unas plumas que simulan ser orejas.<div><br></div><div><img src=\"paste-7d6b214449bdc05e0a4b8dbcda7b9a58e53cc0ef.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "En]$MKR8eq",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cormorán imperial",
+                "<img src=\"paste-a93916986c3111414c6369c761577079626c2b23.jpg\"><img src=\"paste-e4ccf3661415dbf19f1dbdca8020839e57f551f0.jpg\">",
+                "<img src=\"paste-36fe8ebf8cd5597eceb42c57f9d6dcdf1db4b3a3.jpg\"><img src=\"paste-0412ad0fac5593d28cd2599892e7b98ceeff3184.jpg\">",
+                "<img src=\"paste-d1907ee0a9c9a53372711962c28c3dcf28941e45.jpg\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kN3D?@HYRa",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cormorán de las Rocas",
+                "<img src=\"paste-ec32de26c97cae13b0bb6885956601eba60b6e13.jpg\"><img src=\"paste-e4c9532f7820f17bb8faa69ea1ee34853c70c07e.jpg\">",
+                "<img src=\"paste-ca3beb256c078397f765f6f7f3bade8e4867778c.jpg\"><img src=\"paste-e9f13d1bb9f36f2bb24e637e40ce43a921f42def.jpg\">",
+                "<img src=\"paste-348dcafaf749492eaa4938ca8615312554fc72e4.jpg\"><img src=\"paste-8b742cef76e671adaf21b48839d81197b0156189.jpg\"><img src=\"paste-8a49a1f272aad3f08c887a847dc3d13390e7cf08.jpg\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n0DX~f2W6E",
+            "note_model_uuid": "82a7c28c-a085-11ea-b0c2-88d7f6e0e3ef",
+            "tags": [
+                "Environment::Fauna"
+            ]
         }
     ]
 }
